@@ -34,7 +34,9 @@ export const HomePage = () => {
           </form>
 
 
-          <p className="policy">Fique tranquilo, também não gostamos de spam, manteremos seu email seguro, cheque nossa <a><strong>política de segurança.</strong></a></p>
+          <p className="policy">
+            Fique tranquilo, também não gostamos de spam, manteremos seu email seguro, cheque nossa
+             <strong> política de segurança.</strong></p>
         </div>
       </section>
 
